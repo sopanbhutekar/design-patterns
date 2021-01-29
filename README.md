@@ -24,4 +24,10 @@
 		developers to filter a set of objects using different criteria and chaining
 		them in a decoupled way through logical operations. This type of design
 		pattern comes under structural pattern as this pattern combines multiple
-		criteria to obtain single criteria.		
+		criteria to obtain single criteria.	
+		
+# 6. Facade Design Pattern (FacadePatternExample.java)
+		Facade pattern hides the complexities of the system and provides an interface
+		to the client using which the client can access the system. This type of
+		design pattern comes under structural pattern as this pattern adds an
+		interface to existing system to hide its complexities			
